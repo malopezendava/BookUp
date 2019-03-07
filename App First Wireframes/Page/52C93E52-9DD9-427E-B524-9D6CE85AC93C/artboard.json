@@ -27,15 +27,15 @@
     "do_objectID": "E99768E9-8476-4A9C-A190-0A8825252077",
     "height": 1024,
     "width": 768,
-    "x": -1631,
-    "y": -130
+    "x": -1222,
+    "y": -97
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "95A20861-3343-4678-8494-0F348E01959D"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -77,6 +77,10 @@
     {
       "class": "bitmap",
       "id": "BC577D9A-AFA5-4964-A02A-F29DC0E7ADBE"
+    },
+    {
+      "class": "oval",
+      "id": "642FA187-9354-4677-8445-7456F312470C"
     }
   ],
   "name": "Search",
