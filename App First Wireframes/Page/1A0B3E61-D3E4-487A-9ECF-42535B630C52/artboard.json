@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A9C6F7F1-548F-4D0A-9E4A-A9F9420DD6A7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A0B3E61-D3E4-487A-9ECF-42535B630C52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFB7571C-4DE5-4C42-B9A1-BBC806BF8A48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5970831-73BD-48E7-BC68-377859200801",
+    "height": 1024,
+    "width": 768,
+    "x": 1758,
+    "y": 968
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "025331B2-7933-4B94-BD49-86E404695442"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4401108D-675C-409C-AF7B-20B3BC2D321A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BAA7F9FD-30C7-40C9-9212-964BB1E0632F"
+    },
+    {
+      "class": "text",
+      "id": "059765E2-F1C1-4511-80EA-77011066879A"
+    },
+    {
+      "class": "text",
+      "id": "28E6F727-C78B-40E3-92B4-CEB62E51DBF6"
+    },
+    {
+      "class": "shapePath",
+      "id": "69BD290A-48A2-48F1-927E-B4EDA21B76F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "34C133F8-1A7C-4CA0-80A9-E69E1002FE02"
+    },
+    {
+      "class": "shapePath",
+      "id": "42D8CFF0-8585-47B7-9C13-E33A9F6CC879"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDF84993-D82A-400D-B1D8-12B637313B42"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4BAA878-672A-4D83-8885-B93F686D5F01"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F60F206-7153-4CEF-89CC-A483858A0C64"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B30616E-B629-4F06-A9AA-A08609C977BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "573876CA-CE5C-4663-9A6F-A931B4AC002B"
+    },
+    {
+      "class": "bitmap",
+      "id": "4AF46254-CC5A-4361-B410-CF7F7CA1179F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F6248306-D006-4543-A442-32F738F6B31A"
+    }
+  ],
+  "name": "ID Scannwr (1)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06C70CB8-95E5-4E5C-B93A-CE231524D505",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05CBEF3E-E4E2-4416-BA6F-5E3DE019C76B",
+    "guides": [
+    ]
+  }
+}
