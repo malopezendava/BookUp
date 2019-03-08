@@ -35,7 +35,7 @@
     "do_objectID": "A414819E-EA96-4A4C-B66F-B109F90E1722"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -109,6 +109,10 @@
     {
       "class": "text",
       "id": "7D1898EC-F2ED-4A7B-83D5-65456BC1AE39"
+    },
+    {
+      "class": "text",
+      "id": "248FB867-7AF9-4966-BA69-CBBAD85467C7"
     }
   ],
   "name": "Return ",

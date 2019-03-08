@@ -35,7 +35,7 @@
     "do_objectID": "A3A35F6F-CE87-44FD-B964-F23983C86384"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -109,6 +109,10 @@
     {
       "class": "text",
       "id": "BA77DB36-BF6B-4541-8FDB-1112DA83995F"
+    },
+    {
+      "class": "text",
+      "id": "5235BD14-4076-4BDE-AA16-31950218ADDD"
     }
   ],
   "name": "Book QR Scanner (1)",
