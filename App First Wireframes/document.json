@@ -37,7 +37,8 @@
     "version": 116
   },
   "pages": [
-    "Page",
+    "Bookup App",
+    "Errors",
     "Symbols"
   ],
   "userInfo": {

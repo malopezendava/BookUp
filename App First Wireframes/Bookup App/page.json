@@ -104,8 +104,8 @@
       "id": "BF53DA4C-19C3-4DBA-816F-95C5A6819909"
     }
   ],
-  "name": "Page",
-  "nameIsFixed": false,
+  "name": "Bookup App",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
