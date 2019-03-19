@@ -37,7 +37,8 @@
     "version": 116
   },
   "pages": [
-    "Page"
+    "Page",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
