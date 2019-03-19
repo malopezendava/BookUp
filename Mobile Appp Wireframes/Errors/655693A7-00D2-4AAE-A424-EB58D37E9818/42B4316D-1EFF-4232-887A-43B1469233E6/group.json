@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42B4316D-1EFF-4232-887A-43B1469233E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C50FEDC1-8375-4A26-B950-ED51AFF92119",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A802E00-3D51-455C-AF37-C4234DEE6177",
+    "height": 275,
+    "width": 275,
+    "x": 262,
+    "y": 387
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BCC350D2-A08C-4B6D-BEB0-DDCA119931E9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E3D7FDD4-626B-45CC-AAA1-0EA92B8E68EA"
+    }
+  ],
+  "name": "blackberry-qr-code-variant (2) copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35D422CC-248E-4787-AF3E-4AF9CF5AF6A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
