@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09FE63DB-B2B4-4074-9B48-4A4CE81C54B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C938CB2-BAC0-40BB-816E-5C85EB95B568",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7BFB3FF-42F6-4A40-8D79-BE7BDCBDAD17",
+    "height": 26,
+    "width": 781,
+    "x": 313,
+    "y": 911
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Carrusel arrows Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E279A15-0EE7-4B1A-99A1-F368DFB24BE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6F551A9-C627-4123-8490-D2D7A2D2946F",
+  "verticalSpacing": 0
+}
