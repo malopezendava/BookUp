@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07ABBB7D-8949-4742-911B-03A749EEFC91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "241C34BD-914C-4272-9278-593180C967A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0BB9856-5011-4927-97A4-F0004EB56F20",
+    "height": 114,
+    "width": 90,
+    "x": 837,
+    "y": 700
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book Cover Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "16D6F625-1244-454A-B3B3-16F9282CB840",
+      "opacity": 0.15
+    },
+    "do_objectID": "704562AD-A640-4BD3-BFC3-3A954AFC1B59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C506B8BA-4743-4A4A-BDEF-EB85B18EAECB",
+  "verticalSpacing": 0
+}

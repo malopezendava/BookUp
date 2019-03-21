@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "358A6991-9EC8-40F6-AF66-B4BE163D68A9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16F6A35E-AD6D-486A-85B7-2C868DE12581",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44EABFC5-BB3B-4775-9FFB-040BC4DE1973",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "385C5B19-F1B7-4FB0-945C-B573E6AABA00",
+    "height": 1024,
+    "width": 768,
+    "x": 626,
+    "y": 3417
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B222F3F9-399D-4167-A6FA-431B7299F1DA"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F67D767-AF61-412A-B1B4-280245043242",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3823408-C808-4F58-9882-9BF1B4111CE9"
+    },
+    {
+      "class": "text",
+      "id": "B066197A-BFF1-4AA1-BE5B-7C88CBCE8007"
+    },
+    {
+      "class": "rectangle",
+      "id": "711D99A9-37F3-46E0-ABA1-BB04AEB67A40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321A39BF-53BB-4F56-A9BB-F1FA47966704"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1868DB50-2BE8-4530-A400-3B0B3CBA72D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85BDC104-C99C-45FF-BDAB-90D02DDAF1D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7048C97D-F46B-4C5F-A020-CD1F837E22DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64D44A3D-323B-4EAD-9354-69D151F17821"
+    }
+  ],
+  "name": "App review page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD98AACA-2027-4D19-8801-4F482D2DBC67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55EA921F-B2B0-45D9-9971-BF06D756C0C0",
+    "guides": [
+    ]
+  }
+}

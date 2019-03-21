@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9603EAC-1C79-45DC-8C45-BC4CE2A1149D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25FB6866-A9AC-42B2-917F-E87EB1D45781",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9683E293-CA66-410D-8837-F403FABD0A4C",
+    "height": 11,
+    "width": 32,
+    "x": 459,
+    "y": 661
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "860CADB2-0201-47E5-BACF-AC6C953887A4",
+      "overrideName": "2EC4A374-E6CF-4A01-A08C-A8A29AA22625_stringValue",
+      "value": "Suleiman Lalani"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC8AA696-84E9-4B3B-80C3-8E8EF6F20EC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "631E0C49-39F9-4822-932C-3DB8341C5E47",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17510275-65AC-442E-8B50-905A872CF400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1AF42B0-8CCA-4A11-8A94-32E4A13A79D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "345BD302-D0BA-4597-B7A6-F5BD92DCD7F9",
+    "height": 13,
+    "width": 51,
+    "x": 988,
+    "y": 877
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book title Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D17DFA11-C229-48BB-92E4-05BDCE0A6070",
+      "opacity": 0.25634765625
+    },
+    "do_objectID": "89E346A2-CA43-4D47-A767-51931FBD06F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42477F89-61E4-46CE-9973-46BB81EEB70E",
+  "verticalSpacing": 0
+}

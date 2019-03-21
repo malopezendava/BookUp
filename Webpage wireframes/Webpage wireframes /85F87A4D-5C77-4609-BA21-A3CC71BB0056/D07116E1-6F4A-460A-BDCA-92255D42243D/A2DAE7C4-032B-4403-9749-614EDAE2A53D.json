@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2DAE7C4-032B-4403-9749-614EDAE2A53D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7086E6F5-DA0D-4856-BDBF-83F649593066",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75CA6024-A606-488E-9912-0AB06BD54D6E",
+    "height": 13,
+    "width": 51,
+    "x": 279,
+    "y": 284
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book title Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CEB81A2-ACCB-462D-A92E-58034F2C48A9",
+      "overrideName": "E0DA692B-1638-4E12-B83B-4556A5D81A55_stringValue",
+      "value": "Java performance"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B17F18E4-0270-47E7-81DB-3676D5475E5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF0DEBFD-EE22-4E3E-AF63-DDCBAEEB9D25",
+  "verticalSpacing": 0
+}

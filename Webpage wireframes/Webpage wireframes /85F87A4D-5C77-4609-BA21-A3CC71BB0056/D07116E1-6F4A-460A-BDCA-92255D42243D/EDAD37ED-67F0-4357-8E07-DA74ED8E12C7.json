@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDAD37ED-67F0-4357-8E07-DA74ED8E12C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6D4B27D-3857-4C83-92E1-553C8BE5D9DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "775FC425-903C-45FC-A7EF-307284D4A74C",
+    "height": 13,
+    "width": 51,
+    "x": 0,
+    "y": 284
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book title Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32046CED-4BF8-4361-99FB-5C94A63B6635",
+      "overrideName": "E0DA692B-1638-4E12-B83B-4556A5D81A55_stringValue",
+      "value": "\tPure JavaScript"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3021B368-DFF8-44B1-B8CD-F2362CDF9A36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF0DEBFD-EE22-4E3E-AF63-DDCBAEEB9D25",
+  "verticalSpacing": 0
+}

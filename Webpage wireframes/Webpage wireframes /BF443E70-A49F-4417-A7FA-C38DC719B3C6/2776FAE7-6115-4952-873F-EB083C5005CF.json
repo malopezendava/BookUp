@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2776FAE7-6115-4952-873F-EB083C5005CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79352FED-B4E0-44C7-89EF-79BB84BDA327",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7225E34-AEB8-4D5A-A90A-2F5B35D39761",
+    "height": 17,
+    "width": 47,
+    "x": 191,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46BC1B92-BB4A-4B31-BCD9-9C46335C17F8",
+      "overrideName": "D3CEAEE0-4BB9-4B3D-8952-74B5B003DA41_stringValue",
+      "value": "Dzone"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41634D1C-6850-473C-B3BF-FCBAA494017B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DC1A383-04BE-48C2-B2E8-46A921AE5418",
+  "verticalSpacing": 0
+}

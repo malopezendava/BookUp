@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F27AA2EE-7FB3-49E7-A1D1-35EAD2A2D8F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "384B6495-7D2E-4B31-8D4B-2A81F7E46640",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEBF7FAE-0434-4730-9320-70FAA969275C",
+    "height": 11,
+    "width": 290,
+    "x": 514,
+    "y": 499
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Validation Messages Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0829AE21-3323-47E2-99B2-36D71F2F2950",
+      "overrideName": "DBEDE766-F11E-4EAC-91D0-AAB2D88BF76D_stringValue",
+      "value": "You have entered and invalid password. Please try again"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "219ED20B-EFEB-4E4B-AB19-C13B57F3C808",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658208EE-124B-435F-A58B-D551C2F4846E",
+  "verticalSpacing": 0
+}

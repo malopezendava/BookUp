@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85BDC104-C99C-45FF-BDAB-90D02DDAF1D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22D34C49-8ED5-4799-8B39-6443B156A9E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "956BBEC5-7A1B-4903-9ED6-D22FFB7AD890",
+    "height": 21,
+    "width": 50,
+    "x": 347,
+    "y": 235
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book search title Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2902C40E-CA0E-42D1-B641-DDD7FE361204",
+      "overrideName": "6EFA4E71-DB0F-4409-8AA4-872C3AB060AA_stringValue",
+      "value": "Java Programming fundamentals"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09FE42B0-37F4-4428-9AF7-4FF54AD0C9A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54C97A5A-EE24-464E-BC1E-92F5538CE5AE",
+  "verticalSpacing": 0
+}

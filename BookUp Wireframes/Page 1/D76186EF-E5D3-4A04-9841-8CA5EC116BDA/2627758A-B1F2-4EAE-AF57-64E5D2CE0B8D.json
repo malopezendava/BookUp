@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2627758A-B1F2-4EAE-AF57-64E5D2CE0B8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BA3B98C-4960-4F7C-BA3C-6D56917BB91F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDFABC59-F1B2-457A-8521-7DE04AFAFD0F",
+    "height": 11,
+    "width": 290,
+    "x": 517,
+    "y": 398
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Validation Messages",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4270BCA0-03A9-424A-BDC2-783BA3FB0C3F",
+      "overrideName": "DBEDE766-F11E-4EAC-91D0-AAB2D88BF76D_stringValue",
+      "value": "This email address has been taken. Please choose another email "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8005D409-C4E4-4D36-8EA4-0610C45E6FCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658208EE-124B-435F-A58B-D551C2F4846E",
+  "verticalSpacing": 0
+}

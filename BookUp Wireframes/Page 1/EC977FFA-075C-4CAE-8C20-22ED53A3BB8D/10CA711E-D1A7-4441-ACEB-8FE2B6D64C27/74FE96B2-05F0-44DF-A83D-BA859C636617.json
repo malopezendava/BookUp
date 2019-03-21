@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74FE96B2-05F0-44DF-A83D-BA859C636617",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E2BD25F-4AF9-47A2-A6D3-1C9A9AF2E838",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62A89D4D-9687-43E1-B737-24A77845E015",
+    "height": 30,
+    "width": 33,
+    "x": 9,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Top Bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5E3B8B1-D855-4153-A409-05DEA694B194",
+      "overrideName": "9BB2F19B-9F15-4CFE-99E5-EB2D466A48D3_stringValue",
+      "value": "María López"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FF323AB-2F58-4B53-9726-5B782143000C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "636AFABF-D4F5-4C4C-80AE-968478795DFD",
+  "verticalSpacing": 0
+}

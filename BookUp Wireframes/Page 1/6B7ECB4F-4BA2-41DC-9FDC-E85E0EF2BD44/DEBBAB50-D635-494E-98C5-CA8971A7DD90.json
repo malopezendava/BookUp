@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DEBBAB50-D635-494E-98C5-CA8971A7DD90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "829F3BD8-59AE-48DE-AB82-488373F46236",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "148FD544-D808-43C7-9991-26EA12C67318",
+    "height": 21,
+    "width": 50,
+    "x": 299,
+    "y": 280
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book search title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2ABB745-2BAA-482F-9A91-3FEAEF3895B7",
+      "overrideName": "6EFA4E71-DB0F-4409-8AA4-872C3AB060AA_stringValue",
+      "value": "Java Development and Evolution"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4E07D5A-55C4-44A2-9835-0426C43D6EA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54C97A5A-EE24-464E-BC1E-92F5538CE5AE",
+  "verticalSpacing": 0
+}

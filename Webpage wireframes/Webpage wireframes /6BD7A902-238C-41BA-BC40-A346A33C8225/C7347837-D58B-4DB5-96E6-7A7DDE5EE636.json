@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7347837-D58B-4DB5-96E6-7A7DDE5EE636",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7B54DB1-387B-4061-80F0-DAE7C4D2530F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85B8A197-BB16-4E8F-B93C-342944A2A1AF",
+    "height": 11,
+    "width": 32,
+    "x": 877,
+    "y": 663
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EFC057A-B51F-4717-8E7F-BF89585AF28F",
+      "overrideName": "FFDB2C4E-0598-4F5A-BDDD-A3A419A90862_stringValue",
+      "value": "Neal Gafter"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "017FEA05-4D5C-4CDD-A2FE-7A56194F2291",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ADCBAFE1-EF87-4F92-887E-AB65BA6D0681",
+  "verticalSpacing": 0
+}

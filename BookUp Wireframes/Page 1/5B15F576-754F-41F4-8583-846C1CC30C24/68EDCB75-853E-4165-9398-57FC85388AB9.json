@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "68EDCB75-853E-4165-9398-57FC85388AB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D11EFFC-56A6-421B-86DC-6CAEE2699672",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F0AC87B-C257-451F-ADC9-5D0EB80EEC3B",
+    "height": 27,
+    "width": 133,
+    "x": 662,
+    "y": 625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Categories Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCAF7880-885E-43E8-8084-4FDA541FEE12",
+      "overrideName": "05AABBDC-1557-4F87-BD9D-6469AF28AE16_stringValue",
+      "value": "Suggestions for you"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C92CD21D-619A-4016-A63F-9015B4196A70",
+      "opacity": 0.15
+    },
+    "do_objectID": "93FAE3C5-E099-4B81-984C-32DC04469570",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2429EC0-8660-4B86-954F-7998A49C8EED",
+  "verticalSpacing": 0
+}

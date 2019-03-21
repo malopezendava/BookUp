@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6347C511-D6A9-4272-921C-B531C14C1385",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59F31022-6461-492B-A04D-EC5C32A31A87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D20BD0E3-0C48-4140-87F5-10A1089C43C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8866C4F-DDC5-49B6-851E-EA315BDA8B0B",
+    "height": 1024,
+    "width": 768,
+    "x": -2586,
+    "y": 4607
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2B541E76-1C0D-44E9-943A-EF62C0F92293"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0F3E4DFA-F22D-4C89-AE19-F169C0027BA4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7D3A0B46-5955-487F-918C-0FFC89AEA857"
+    },
+    {
+      "class": "rectangle",
+      "id": "253602BB-1DDC-4FA2-9255-A8853C21BBF8"
+    },
+    {
+      "class": "rectangle",
+      "id": "D9110966-3CCC-4D32-ACC5-CEE637B4F212"
+    },
+    {
+      "class": "text",
+      "id": "6E81130F-71E4-49FE-A604-0A4F7A3305E8"
+    },
+    {
+      "class": "text",
+      "id": "9DEA896A-E547-4AB4-B9B8-8D242491655B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1152B9E4-70BC-4168-8EF2-C18579238054"
+    },
+    {
+      "class": "group",
+      "id": "DE1CDD57-143A-405A-BB5B-994E760AE62E"
+    }
+  ],
+  "name": "Searching book QR error",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74DBA230-A843-41AB-9630-D5B85D170D78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4CFDD54B-3A4E-4735-A608-AB97AE87DCBA",
+    "guides": [
+    ]
+  }
+}

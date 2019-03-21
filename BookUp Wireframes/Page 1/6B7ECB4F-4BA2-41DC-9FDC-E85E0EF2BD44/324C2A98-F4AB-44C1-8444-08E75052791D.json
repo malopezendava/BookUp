@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "324C2A98-F4AB-44C1-8444-08E75052791D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE58CB4E-4963-4D6E-8A50-02F2D3B4255D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D8511E0-818E-4E8D-83C9-1FCC4F29EDB8",
+    "height": 17,
+    "width": 47,
+    "x": 212,
+    "y": 441
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDC762FB-21EC-4800-86B8-76DDB4D46AF9",
+      "overrideName": "E0D24CEB-51C4-401A-B533-AF9FE28E4E4C_stringValue",
+      "value": "Mayor Ramgir"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D41066B7-6535-4E4C-A784-FA8059383E93",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9D92194-37C7-4A0C-8FE2-DF9E271226E2",
+  "verticalSpacing": 0
+}

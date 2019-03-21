@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B49DFCF6-3F41-49B6-ACDF-5B479C632DA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12200E03-5D44-4C71-9072-6B2BFC089A37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88C7CA49-4AB5-47D1-AD21-5AD656984E2B",
+    "height": 11,
+    "width": 32,
+    "x": 728,
+    "y": 898
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31EC1CE6-8F7C-4EF6-9791-DFD1287BC8B0",
+      "overrideName": "FFDB2C4E-0598-4F5A-BDDD-A3A419A90862_stringValue",
+      "value": "Binu John"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EB10346-2477-4A9C-B8B6-88286A6CCB06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ADCBAFE1-EF87-4F92-887E-AB65BA6D0681",
+  "verticalSpacing": 0
+}

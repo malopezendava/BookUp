@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAA77DC5-282C-441E-9F2B-070E3F0A5C7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 136,
+    "width": 33,
+    "x": 523,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43927BFC-DB4B-4E98-9AD7-C05369086FF2",
+      "overrideName": "958A6634-9D74-49AF-8D07-E6D2FACCA098_stringValue",
+      "value": "Binu John"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36603CE5-1EF7-468A-9C89-8F90C1147492",
+      "overrideName": "9303F003-5EFC-4BD2-8824-4DD5E745CB1E_stringValue",
+      "value": "      Charles Lyons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF20E13E-FEFC-4E85-94E7-EE460D19F93B",
+      "overrideName": "F75FFC42-4362-4B8D-BDDB-E7CB2FF4D9D1_stringValue",
+      "value": "     Joshua Bloch"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45B9DE93-BBC2-4209-8CCC-F853CBA00454",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4938BAE8-873D-4C64-9402-BDAB0337E5BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "87D58345-0B21-4F5D-BCD0-734E9A40D2F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1877F7B5-5320-4B5F-8905-8EE894B8235C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "666BF1F3-45B6-475A-9ABD-9141136B5BB1",
+    "height": 1024,
+    "width": 768,
+    "x": -1748,
+    "y": 4607
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "004F87EC-3555-4505-9D5A-6A967D8B55AF"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09A5E449-BC46-48DB-9E25-9041E67E78E3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "17AAAEAF-99B8-4B01-B81E-63E6796445D0"
+    },
+    {
+      "class": "group",
+      "id": "7EFEBAAD-AABC-40EC-973B-87AEA1A1F255"
+    },
+    {
+      "class": "rectangle",
+      "id": "4FBA71C4-E829-40C8-B97A-6E79FC8E7B41"
+    },
+    {
+      "class": "rectangle",
+      "id": "865B81D2-EC61-4A28-8994-C72E4628014A"
+    },
+    {
+      "class": "text",
+      "id": "A6667F2C-727F-4003-81C1-769F21B7F993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A87A6B46-F1F5-4B21-A53D-918F310936F0"
+    }
+  ],
+  "name": "Searching  ID QR error ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8337D854-9383-474D-AF48-D4CA58CC5F65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D73EC304-3F46-4FCD-A3D1-A1833A91B36F",
+    "guides": [
+    ]
+  }
+}

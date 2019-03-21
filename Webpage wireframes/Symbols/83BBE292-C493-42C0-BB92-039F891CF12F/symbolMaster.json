@@ -1,0 +1,143 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 690,
+  "clippingMaskMode": 0,
+  "do_objectID": "83BBE292-C493-42C0-BB92-039F891CF12F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 459,
+    "width": 768,
+    "x": 7551,
+    "y": 1091
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FFFC104B-CAF4-427A-A083-5035A89A7C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "620EC40F-B06B-48F0-9800-174552EDD929"
+    },
+    {
+      "class": "rectangle",
+      "id": "9BC3946A-6438-4018-8381-5EFF86CE095E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47EF11DD-2F37-4619-AAFA-2FC53BE7C3B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08262DEE-FD66-42F1-8597-55654837A6DD"
+    },
+    {
+      "class": "group",
+      "id": "6EDFBE5E-4E96-41DF-BA78-BCD0FF550B80"
+    },
+    {
+      "class": "group",
+      "id": "5B239EBE-769F-42B2-8E96-9E2C445014AD"
+    },
+    {
+      "class": "group",
+      "id": "40A6FE20-A8ED-407A-94F0-97CA02615BAC"
+    },
+    {
+      "class": "text",
+      "id": "6F890C0C-21E0-48BC-A929-D77E95DBA54C"
+    },
+    {
+      "class": "shapePath",
+      "id": "4690E736-69B3-4D83-910F-53ACC1ADB18E"
+    }
+  ],
+  "name": "Searcjing bar",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3C8D31CA-9437-4FB4-A052-E23DA48EDCFF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FFFC104B-CAF4-427A-A083-5035A89A7C8A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "620EC40F-B06B-48F0-9800-174552EDD929_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "47EF11DD-2F37-4619-AAFA-2FC53BE7C3B9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "08262DEE-FD66-42F1-8597-55654837A6DD_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB658FF2-E6CA-40FE-887B-E616776339DB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

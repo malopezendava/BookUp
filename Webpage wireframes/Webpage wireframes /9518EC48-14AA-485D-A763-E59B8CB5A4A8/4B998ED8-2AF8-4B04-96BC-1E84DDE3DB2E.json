@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B998ED8-2AF8-4B04-96BC-1E84DDE3DB2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BCF4A8F-FD7F-4AD2-9F4A-55CA61EB9BD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD7FF3B8-D5E5-4719-A082-6E9E3781CEFC",
+    "height": 22,
+    "width": 133,
+    "x": 346,
+    "y": 446
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Empty rate stars",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C910CB4E-8BB0-47AF-8A10-60767F01E69A",
+      "opacity": 0.15
+    },
+    "do_objectID": "3D573D80-33DB-43CE-9E78-EF5FA454D9C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1630B3EF-219D-4D12-B331-23BF80125E29",
+  "verticalSpacing": 0
+}

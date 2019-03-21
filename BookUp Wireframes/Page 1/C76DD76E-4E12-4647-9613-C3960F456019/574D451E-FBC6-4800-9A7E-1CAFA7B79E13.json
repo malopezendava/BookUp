@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "574D451E-FBC6-4800-9A7E-1CAFA7B79E13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97BE53B8-A19C-4748-B0C1-9116BF156646",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FDC4E15-BEAB-4195-8B7A-A35E9B6B82F1",
+    "height": 21,
+    "width": 56,
+    "x": 470,
+    "y": 298
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F7D589-51C8-4298-90BC-AEE34BAE63E5",
+      "overrideName": "E0D24CEB-51C4-401A-B533-AF9FE28E4E4C_stringValue",
+      "value": "John Resig "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "502AA175-5D54-49F2-B2E0-7F3BAF1D86AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9D92194-37C7-4A0C-8FE2-DF9E271226E2",
+  "verticalSpacing": 0
+}

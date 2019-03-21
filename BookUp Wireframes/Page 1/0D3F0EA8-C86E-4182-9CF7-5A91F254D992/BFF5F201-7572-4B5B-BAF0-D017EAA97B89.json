@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFF5F201-7572-4B5B-BAF0-D017EAA97B89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6234824A-5D9A-4255-A703-9B22043365E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD85AE67-4CF8-41E5-8657-260DE4044486",
+    "height": 26,
+    "width": 781,
+    "x": 364,
+    "y": 745
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Carrusel arrows Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7D12E515-5E5A-46CA-9898-00377F46245D",
+      "opacity": 0.15
+    },
+    "do_objectID": "BF69CDEA-4C7A-486C-BAD2-BCB9F16543EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C61038F-E3BE-4713-9CE8-CA6185C28B55",
+  "verticalSpacing": 0
+}

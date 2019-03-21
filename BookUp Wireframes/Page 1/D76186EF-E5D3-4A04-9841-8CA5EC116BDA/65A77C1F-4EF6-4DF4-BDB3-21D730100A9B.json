@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65A77C1F-4EF6-4DF4-BDB3-21D730100A9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90E6C9C9-0BE3-43ED-BC6D-C1853B37AB45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13929F85-F033-42D9-BA4C-7B98B5EBE437",
+    "height": 11,
+    "width": 290,
+    "x": 517,
+    "y": 537
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Validation Messages Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4270BCA0-03A9-424A-BDC2-783BA3FB0C3F",
+      "overrideName": "DBEDE766-F11E-4EAC-91D0-AAB2D88BF76D_stringValue",
+      "value": "Passwords don’t match"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2727601B-7D7A-4DDD-9223-A73706EAC1A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658208EE-124B-435F-A58B-D551C2F4846E",
+  "verticalSpacing": 0
+}

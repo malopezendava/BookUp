@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F17D9B35-365E-478B-AD19-FFCE452CFD88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69C1E4B9-1AEB-4A35-B29E-D53B4462A051",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B82B25B7-A3D5-48B6-BBFB-145AD10AE373",
+    "height": 11,
+    "width": 32,
+    "x": 514,
+    "y": 305
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D53C85E6-8C8E-440D-956E-70FE9CA7F245",
+      "overrideName": "2EC4A374-E6CF-4A01-A08C-A8A29AA22625_stringValue",
+      "value": "\tBruce Eckel "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E27B5C8F-2440-4F50-ACC9-3217130F1165",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "631E0C49-39F9-4822-932C-3DB8341C5E47",
+  "verticalSpacing": 0
+}

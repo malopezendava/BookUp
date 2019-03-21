@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "573D25C0-C7FF-4C19-89C0-CAA6464E7454",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1AFAB92-2B94-41A6-ABE1-6FFC302344F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24F33083-ECC0-4B0F-94CC-CEBDE5A4D81E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85473426-0843-47F1-918E-FBF8E1B99877",
+    "height": 1024,
+    "width": 768,
+    "x": -126,
+    "y": 4607
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7066ED81-4AC9-40D8-A8A5-17ECAECA2817"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1C06563-DC6B-4302-A334-DFF93DA1E72A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "363B9164-6967-4223-AF87-B69DE8E63BDF"
+    },
+    {
+      "class": "text",
+      "id": "E7477426-AA59-407D-A28F-CD7ECFCB8C3D"
+    },
+    {
+      "class": "bitmap",
+      "id": "7FAEF8B1-E34F-4612-BC2F-5CAFC9391DA3"
+    }
+  ],
+  "name": "Returning error",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5763A6F-7DCC-4872-A198-6A3DCD8C1811",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49B1F742-2E44-47EB-87F4-B9D46612C175",
+    "guides": [
+    ]
+  }
+}

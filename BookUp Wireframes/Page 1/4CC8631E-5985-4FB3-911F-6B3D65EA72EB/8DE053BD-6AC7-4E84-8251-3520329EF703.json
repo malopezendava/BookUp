@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DE053BD-6AC7-4E84-8251-3520329EF703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "867E8151-5336-43A8-91DC-6CF93F1FE949",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4328F86-9208-4EC5-890D-24A718C95210",
+    "height": 48,
+    "width": 516,
+    "x": 513,
+    "y": 370
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text fields",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E7032A7-8005-473C-8B52-DAD567B3B426",
+      "overrideName": "F68E4D85-F41E-4E38-B4DB-7461E4834D5B_stringValue",
+      "value": "Email address(@endava.com)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABD81452-37BD-4C0F-8732-954B7731E1D3",
+      "overrideName": "0E2A866B-F9FC-4BC2-992E-08702C451C0B_stringValue",
+      "value": "                               Email address(@endava.com)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B528CC7-0500-4221-9FCA-ADFC0A2A216E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BBC3B7A-4CD7-4957-8CB7-6FDB86E43603",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "5B15F576-754F-41F4-8583-846C1CC30C24",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

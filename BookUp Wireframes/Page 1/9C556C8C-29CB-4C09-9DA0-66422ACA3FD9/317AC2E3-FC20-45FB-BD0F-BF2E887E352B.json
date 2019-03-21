@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "317AC2E3-FC20-45FB-BD0F-BF2E887E352B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "841484E2-7041-4908-AC30-A877E1C23B4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41FB0CEB-C44A-4CD5-B42E-4C71CB2B0E1D",
+    "height": 37,
+    "width": 659,
+    "x": 456,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "B9B487EB-41CA-4D2F-9963-4FB2CEA2B30A",
+      "opacity": 0.15
+    },
+    "do_objectID": "A467CCF3-91E2-41D3-B623-679BBFD3D67D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAAEA072-B385-4B4D-8F15-A80DFE393045",
+  "verticalSpacing": 0
+}

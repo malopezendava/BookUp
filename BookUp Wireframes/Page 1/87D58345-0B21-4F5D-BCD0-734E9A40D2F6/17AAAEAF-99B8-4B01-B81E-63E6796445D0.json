@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17AAAEAF-99B8-4B01-B81E-63E6796445D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E520BCC6-549F-432B-BB30-D37E14959E83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C242824-35DA-4A95-AC57-A66A87F7D950",
+    "height": 371,
+    "width": 358,
+    "x": 219,
+    "y": 338
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Loading QR",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "46CEDEB4-DC09-42C1-967E-5B0DF7763F24",
+      "opacity": 0.15
+    },
+    "do_objectID": "571C9E24-1D47-4156-BCCE-8D996C01BEBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79D53627-EA16-4E15-86C2-FBFD48EA2688",
+  "verticalSpacing": 0
+}

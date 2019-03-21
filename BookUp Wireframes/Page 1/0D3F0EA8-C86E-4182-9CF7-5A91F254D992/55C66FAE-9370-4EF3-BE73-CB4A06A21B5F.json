@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55C66FAE-9370-4EF3-BE73-CB4A06A21B5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C8C9EBD-7631-40A9-9EC9-3C161DA4CD03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BDA1E86-9D11-4A79-9D6F-9BF4B78E559F",
+    "height": 11,
+    "width": 290,
+    "x": 514,
+    "y": 501
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Validation Messages Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56BFCDBC-8C12-47B3-87C3-AEA3C670727A",
+      "overrideName": "DBEDE766-F11E-4EAC-91D0-AAB2D88BF76D_stringValue",
+      "value": "The password field is required "
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34AFE984-EBBB-4409-8209-042201E52F6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658208EE-124B-435F-A58B-D551C2F4846E",
+  "verticalSpacing": 0
+}

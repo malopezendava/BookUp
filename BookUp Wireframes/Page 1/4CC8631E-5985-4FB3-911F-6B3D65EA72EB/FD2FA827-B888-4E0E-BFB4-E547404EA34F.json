@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD2FA827-B888-4E0E-BFB4-E547404EA34F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D915ABB6-F27E-4A29-9BFC-AA3696EE3D1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF2876F8-35BA-4D09-82EA-6AACBD679EB3",
+    "height": 30,
+    "width": 33,
+    "x": 1356,
+    "y": 63
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Login Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8539535-8D21-4170-B0A3-4F089F94FF64",
+      "overrideName": "9BB2F19B-9F15-4CFE-99E5-EB2D466A48D3_stringValue",
+      "value": "Sign up"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C4242BE1-4273-494B-8185-27660B3ED128",
+      "opacity": 0.25634765625
+    },
+    "do_objectID": "C984B71F-B6FB-4D31-B8CB-C9F0BEE3F0C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "636AFABF-D4F5-4C4C-80AE-968478795DFD",
+  "verticalSpacing": 0
+}

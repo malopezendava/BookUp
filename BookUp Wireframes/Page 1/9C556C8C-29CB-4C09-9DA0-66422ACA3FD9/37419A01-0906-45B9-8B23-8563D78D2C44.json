@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37419A01-0906-45B9-8B23-8563D78D2C44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98E95C3C-11A4-4B04-89D6-7585C7E0BEB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F15C9756-54BB-4844-B2B6-48BDF6D30AF5",
+    "height": 44,
+    "width": 99,
+    "x": 347,
+    "y": 821.000000000002
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Save review",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "924016FB-D6D1-4B67-932E-C2865C6C2DF5",
+      "opacity": 0.15
+    },
+    "do_objectID": "E0A1DC20-0D7C-472E-912E-1AB88005D487",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E6F0122-F3AC-4F1E-A19E-C3372079AC7C",
+  "verticalSpacing": 0
+}

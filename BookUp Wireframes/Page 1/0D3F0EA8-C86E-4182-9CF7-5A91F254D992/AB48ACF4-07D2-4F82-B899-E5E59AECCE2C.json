@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB48ACF4-07D2-4F82-B899-E5E59AECCE2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C39A71C0-E18E-4EB0-90B4-D775D6B41F2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFC8AD5F-7B02-4A43-ACBB-0CF1B66999A1",
+    "height": 11,
+    "width": 290,
+    "x": 514,
+    "y": 420
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Validation Messages",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4270BCA0-03A9-424A-BDC2-783BA3FB0C3F",
+      "overrideName": "DBEDE766-F11E-4EAC-91D0-AAB2D88BF76D_stringValue",
+      "value": "Please type yout Endava e-mail address. For example: user@endava.com"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49D2E56C-46AA-4D7B-82D5-482A37EFAC51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658208EE-124B-435F-A58B-D551C2F4846E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09C408F2-274A-48BC-9F49-9B41E75B1C69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A63896BA-9DD0-4C5F-BF14-5EC4B41B90BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17906216-A24B-411F-A25E-C80BA167CA77",
+    "height": 60,
+    "width": 315,
+    "x": 605,
+    "y": 235
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "657B0F06-F8A5-445F-98E8-7339C9D6AAB8",
+      "overrideName": "91295850-A995-4DA4-8868-2D59E96D2114_stringValue",
+      "value": "JavaScript Ninja \n"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70EA007B-1C4D-4597-8B30-AD281E3D11DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56B9568A-0D7F-4EFE-9D8D-918A9B6FA777",
+  "verticalSpacing": 0
+}

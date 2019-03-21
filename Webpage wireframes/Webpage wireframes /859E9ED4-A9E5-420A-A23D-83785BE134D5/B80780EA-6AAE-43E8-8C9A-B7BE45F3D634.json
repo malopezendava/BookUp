@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B80780EA-6AAE-43E8-8C9A-B7BE45F3D634",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2598928A-244D-4EB4-8F42-B17EBEA74573",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D04799D3-24EE-41C0-9859-E485494B86B1",
+    "height": 21,
+    "width": 56,
+    "x": 493,
+    "y": 707
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Author Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E3088A8-7ED4-4A3C-8884-9D0083912116",
+      "overrideName": "D3CEAEE0-4BB9-4B3D-8952-74B5B003DA41_stringValue",
+      "value": "Premchand S.Neir"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9058D2A5-6AA3-4F00-AA10-96227EB7FD59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DC1A383-04BE-48C2-B2E8-46A921AE5418",
+  "verticalSpacing": 0
+}

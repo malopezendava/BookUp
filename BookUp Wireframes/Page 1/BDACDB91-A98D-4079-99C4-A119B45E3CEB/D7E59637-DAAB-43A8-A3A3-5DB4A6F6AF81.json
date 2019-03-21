@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7E59637-DAAB-43A8-A3A3-5DB4A6F6AF81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73CDF39C-C37D-4374-AD7B-A4DB183137CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9E1DD8C-0599-4784-8698-D3DA102470CA",
+    "height": 48,
+    "width": 516,
+    "x": 513,
+    "y": 470
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text fields Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "225E97F5-234F-4558-A199-553F600D317B",
+      "overrideName": "F68E4D85-F41E-4E38-B4DB-7461E4834D5B_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F777595-3C25-4DDE-907E-100EC601FDAC",
+      "overrideName": "0E2A866B-F9FC-4BC2-992E-08702C451C0B_stringValue",
+      "value": "          Confirm Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E3CEC34-7F54-4772-8E56-49D4B2E098B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BBC3B7A-4CD7-4957-8CB7-6FDB86E43603",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D9D0CEC-7F15-4349-B497-1FCD70A6DE2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1C7B7A7-4D0E-4BE4-A716-AE8FC798407D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E852A66D-7CFC-41EB-84A9-54B3BAC66229",
+    "height": 25,
+    "width": 60,
+    "x": 454,
+    "y": 278
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book search title",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "96454B7B-2BB5-419A-B6AE-EFCAA7ECC0F5",
+      "opacity": 0.15
+    },
+    "do_objectID": "5FA4AD38-536F-4501-9779-1B438176E69B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B90D3D98-F577-498D-A9C1-60D4C9D0A236",
+  "verticalSpacing": 0
+}

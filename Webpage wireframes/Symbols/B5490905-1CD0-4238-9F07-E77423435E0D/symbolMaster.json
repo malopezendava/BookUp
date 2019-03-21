@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5490905-1CD0-4238-9F07-E77423435E0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 366,
+    "width": 358,
+    "x": 8684,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "19F5F17E-FFC4-4920-AD2B-38D04342E1A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "97608F36-F254-4E62-B463-197E896E1904"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA4BE483-DD4B-4BAD-93DB-ADDB0ACE4078"
+    },
+    {
+      "class": "shapePath",
+      "id": "638FA41C-EDB6-401A-BC84-049C47B35718"
+    },
+    {
+      "class": "shapePath",
+      "id": "6879215F-C8D0-4E89-A821-EDF8C860B9E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2C75D5C-9BB9-4C86-9EEE-162C1FAA914F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B25FD9CA-DBE2-4C02-8FD8-1351EB197E77"
+    },
+    {
+      "class": "shapePath",
+      "id": "99D85D86-5B8C-4177-8035-5094BFFA94C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "4DCE3F1A-FE23-4226-A18C-4A3B152B171F"
+    }
+  ],
+  "name": "Scan QR",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F702B18D-1D86-4BC2-8A2B-B12C11E71077",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A398D13E-D8DF-4C70-8385-152E1AF6A9E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E044CD7-313C-476F-9623-86EE1525964D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D11E928-4D07-4B82-A427-D3451BC958F2",
+    "height": 48,
+    "width": 516,
+    "x": 513,
+    "y": 370
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text fields",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E7032A7-8005-473C-8B52-DAD567B3B426",
+      "overrideName": "F68E4D85-F41E-4E38-B4DB-7461E4834D5B_stringValue",
+      "value": "Email address(@endava.com)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABD81452-37BD-4C0F-8732-954B7731E1D3",
+      "overrideName": "0E2A866B-F9FC-4BC2-992E-08702C451C0B_stringValue",
+      "value": "                               Email address(@endava.com)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA4445F4-5E86-4B27-A9BA-9F8819A04952",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BBC3B7A-4CD7-4957-8CB7-6FDB86E43603",
+  "verticalSpacing": 0
+}
