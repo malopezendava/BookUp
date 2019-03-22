@@ -1,19 +1,18 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "09EC78F9-3238-441B-9D1F-3C340121DA53",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "A3011237-814B-4414-AFCD-7C0583839532",
+  "do_objectID": "10D32AE2-8C30-40CB-A663-EBE73588B49C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7383DA85-CB56-495A-BF9E-16C1DECB2AC6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,27 +23,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A30EFC7C-C1F1-4462-9E01-E14A2E80F91B",
-    "height": 1024,
-    "width": 768,
-    "x": -1775,
-    "y": 2330
+    "height": 18,
+    "width": 18,
+    "x": 14064,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9D3351B9-C9AF-4F4A-AC5A-5B21BC2B2410"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "DDCFA7EB-3699-4ADB-AECD-DBEB97880019",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -55,23 +52,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "516C8684-5E12-431F-9421-17E1B5565994"
-    },
-    {
-      "class": "group",
-      "id": "12DC988F-286C-4DD5-AD29-BF47ACBBAFD2"
+      "class": "bitmap",
+      "id": "47635722-1C7A-49A4-9910-154AE30C408E"
     }
   ],
-  "name": "Searching QR",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "iPad",
-    "offersLandscapeVariant": 1,
-    "width": 768
-  },
+  "name": "Close",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,16 +67,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "66C2932E-7CF9-469E-BE0C-E0B6D033F75C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "D475E8B1-66A8-4AE8-B984-34E7E35B4E1D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9E08CD7C-800F-4955-81A4-A16986FC2A89",
     "guides": [
     ]
   }

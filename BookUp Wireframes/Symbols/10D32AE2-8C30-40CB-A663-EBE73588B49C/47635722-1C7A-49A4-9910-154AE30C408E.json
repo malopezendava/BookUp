@@ -21,8 +21,8 @@
     "do_objectID": "D7DDB4B4-F6D8-4BB9-ADD9-B9C65D80B25B",
     "height": 18,
     "width": 18,
-    "x": 469,
-    "y": 247
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
@@ -45,6 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.6642252604166666
+    },
     "do_objectID": "697D080F-C2E6-461E-93AB-94D5C9FBC144",
     "endMarkerType": 0,
     "fills": [

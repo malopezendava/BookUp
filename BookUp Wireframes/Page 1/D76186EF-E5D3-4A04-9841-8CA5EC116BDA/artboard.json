@@ -35,7 +35,7 @@
     "do_objectID": "896E3A82-06D6-48F3-A497-8BE0B02E8E3E"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -245,6 +245,10 @@
     {
       "class": "group",
       "id": "8046385A-5C6A-45F7-A986-05CE6EFCDA68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C152BD84-DC51-47A7-8739-6A5E3FDB34EF"
     },
     {
       "class": "symbolInstance",
