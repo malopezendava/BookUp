@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -277,10 +277,6 @@
     {
       "class": "symbolInstance",
       "id": "A3663C9D-B9C5-48D3-8D64-54C8132D4393"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "649D25FC-7235-4994-9A77-C8EEBB1D552C"
     }
   ],
   "name": "Sign up",

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F5DA753C-82E0-49AE-A750-367E0BB39E9A",
+  "do_objectID": "80BCF411-E348-468D-9BAE-7FD5B026F3F8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "44E2EBC8-B7ED-49AE-ABDC-F22624049543",
+    "do_objectID": "0AE04061-97C9-4ADD-A568-4CDBCD775A43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FF5F93AE-2898-427B-A93A-F89B977E1FB5",
-    "height": 9,
-    "width": 59,
-    "x": 198,
-    "y": 638
+    "do_objectID": "248C28AC-5744-43EC-B143-CFA99C4A9612",
+    "height": 16,
+    "width": 119,
+    "x": 852,
+    "y": 545
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "App book status Copy 2",
+  "name": "Check Box",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "21BEE0FB-DF41-4F7A-A08D-5D36CA9D3B16",
-      "overrideName": "4B6F7810-1F7D-4A0F-8718-155108A6A42A_stringValue",
-      "value": "Borrow until 12/03/2019"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5327EDEF-8572-4E4A-AC04-C27ED8EAB319",
+    "do_objectID": "B568F0A5-850E-47D2-806B-579BA3306BF7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "42CAE21D-6091-446B-BFC6-1542D70488AA",
+  "symbolID": "F4E5FF50-D75F-4D93-BE93-C4E3C2D8C6C1",
   "verticalSpacing": 0
 }

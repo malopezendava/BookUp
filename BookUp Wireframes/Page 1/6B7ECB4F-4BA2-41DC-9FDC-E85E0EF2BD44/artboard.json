@@ -35,7 +35,7 @@
     "do_objectID": "E9BF5F28-A800-4A49-8C8C-94C7AD682543"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -133,10 +133,6 @@
     {
       "class": "symbolInstance",
       "id": "F5DA753C-82E0-49AE-A750-367E0BB39E9A"
-    },
-    {
-      "class": "text",
-      "id": "EEC69128-A32E-40B1-B1C7-D1ED7AE1E273"
     }
   ],
   "name": "Search books ",

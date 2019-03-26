@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -245,6 +245,10 @@
     {
       "class": "rectangle",
       "id": "62B6B7C7-097B-49BC-B2E0-F0403CCDBCD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D70566A3-D067-4591-A4F1-4919A395ADB1"
     },
     {
       "class": "symbolInstance",

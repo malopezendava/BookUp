@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "649D25FC-7235-4994-9A77-C8EEBB1D552C",
+  "do_objectID": "D70566A3-D067-4591-A4F1-4919A395ADB1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9461FF20-2492-4530-82F8-5E46138761B0",
+    "do_objectID": "BA90FE27-2A35-4776-87AA-7A2711C67E93",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9A3A4387-B8DD-489B-987E-C74970FF0CAA",
+    "do_objectID": "1C4C5C1D-BEAD-46F7-A391-6CC392DA481A",
     "height": 16,
     "width": 119,
-    "x": 519,
-    "y": 530
+    "x": 850,
+    "y": 578
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -41,7 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E00771FE-E91D-4C33-AA36-21E76F767A3F",
+    "do_objectID": "5BAAE3A7-EDC0-495B-A774-3C1AF293A7D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

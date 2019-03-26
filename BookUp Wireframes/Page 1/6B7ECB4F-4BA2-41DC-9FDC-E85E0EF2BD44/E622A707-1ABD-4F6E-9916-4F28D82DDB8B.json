@@ -33,6 +33,12 @@
   "name": "App book status Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACECB465-F8A1-4BCF-87FF-A99BF1A5165F",
+      "overrideName": "4B6F7810-1F7D-4A0F-8718-155108A6A42A_stringValue",
+      "value": "Available"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
